@@ -4,6 +4,12 @@
   width: 240px;
 }
 
+.title {
+  font-size: 20px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
 .input {
   width: 100%;
   line-height: 24px;

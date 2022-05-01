@@ -64,15 +64,16 @@ function App() {
 
 	return (
 		<div className="App">
+			<div className="title">QQ号查询</div>
 			<input
 				className="input"
 				type="text"
-				placeholder="Search QQ"
+				placeholder="请输入要查询的QQ号"
 				value={search}
 				onChange={onChange}
 			/>
 			<div className="result">
-				{loading && <div className="searching">Searching...</div>}
+				{loading && <div className="searching">查询中...</div>}
 				{!loading && data && (
 					<>
 						<img

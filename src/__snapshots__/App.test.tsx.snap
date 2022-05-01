@@ -1,47 +1,18 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`render 1`] = `
-<div
-  className="App"
->
-  <input
-    className="input"
-    onChange={[Function]}
-    placeholder="Search QQ"
-    type="text"
-    value=""
-  />
-  <div
-    className="result"
-  />
-</div>
-`;
-
-exports[`rendr 1`] = `
-<div
-  className="App"
->
-  <input
-    className="input"
-    onChange={[Function]}
-    placeholder="Search QQ"
-    type="text"
-    value=""
-  />
-  <div
-    className="result"
-  />
-</div>
-`;
-
 exports[`snapshot 1`] = `
 <div
   className="App"
 >
+  <div
+    className="title"
+  >
+    QQ号查询
+  </div>
   <input
     className="input"
     onChange={[Function]}
-    placeholder="Search QQ"
+    placeholder="请输入要查询的QQ号"
     type="text"
     value=""
   />
