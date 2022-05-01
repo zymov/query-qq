@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render 1`] = `
+<div
+  className="App"
+>
+  <input
+    className="input"
+    onChange={[Function]}
+    placeholder="Search QQ"
+    type="text"
+    value=""
+  />
+  <div
+    className="result"
+  />
+</div>
+`;
+
+exports[`rendr 1`] = `
+<div
+  className="App"
+>
+  <input
+    className="input"
+    onChange={[Function]}
+    placeholder="Search QQ"
+    type="text"
+    value=""
+  />
+  <div
+    className="result"
+  />
+</div>
+`;
+
+exports[`snapshot 1`] = `
+<div
+  className="App"
+>
+  <input
+    className="input"
+    onChange={[Function]}
+    placeholder="Search QQ"
+    type="text"
+    value=""
+  />
+  <div
+    className="result"
+  />
+</div>
+`;
